@@ -16,5 +16,8 @@
   },
   "homepage": "https://github.com/Usama9999/dragonMovies#readme",
   "keywords": [],
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
 }
